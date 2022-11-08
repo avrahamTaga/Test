@@ -1,1 +1,1 @@
-Hi world.casdasdasdasdasdasdasd
+Hi world.casdasdasdasdasdasdasdfunction getMilliseconds() { [native code] }
